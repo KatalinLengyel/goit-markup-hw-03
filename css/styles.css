@@ -1,0 +1,174 @@
+
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a.navy-blue {
+    color: #2E2F42;
+}
+
+.page-wrapper {
+    width: 1440px;
+    margin: 40px auto;
+    background-color: #fff;
+}
+
+.title {
+    font-weight: 700;
+    font-style: normal;
+    font-size: 56px;
+    line-height: 60px;
+    color: #fff;
+    width: 480px;
+    margin: 0 auto;
+
+}
+
+.title-h2 {
+    font-weight: 700;
+    font-style: normal;
+    font-size: 36px;
+    color: #2E2F42;
+    margin-bottom: 60px;
+}
+
+.title-h3 {
+    font-weight: 500;
+    font-style: normal;
+    font-size: 20px;
+    color: #2E2F42;
+}
+
+.text {
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #434455;
+}
+
+.button-text {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+}
+
+/* Header: Navigation bar */
+.logo-text {
+    color: #4D5AE5;
+}
+
+.logo a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #2E2F42;
+}
+
+.logo {
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+    text-decoration: none;
+    size: 18px;
+}
+
+.navigation {
+    font-weight: 500;
+    font-style: normal;
+    size: 16px;
+    line-height: 24px;
+}
+
+.navigation a {
+    text-decoration: none;
+}
+
+.navigation a:hover,
+.navigation a:visited {
+    color: #404BBF;
+}
+
+.contacts a {
+    text-decoration: none;
+}
+
+.contacts a:hover,
+.contacts a:visited {
+    color: #404BBF;
+}
+
+/* Hero section */
+.hero {
+    background-color: #2E2F42;
+    width: 1440px;
+    padding: 120px 0;
+    text-align: center;
+}
+
+.order-button {
+    background-color: #4D5AE5;
+    border: none;
+    padding: 14px 40px;
+    border-radius: 6px;
+    margin-top: 40px;
+}
+
+.order-button:hover,
+.order-button:visited {
+    background-color: #404BBF;
+}
+
+/* Features section */
+
+
+/* Section: What are we doing */
+.section {
+    width: 1440px;
+    padding: 120px 0;
+    text-align: center;
+}
+
+/* Section: Our Team */
+.our-team {
+    width: 1440px;
+    padding: 100px 0;
+    text-align: center;
+    background-color: #F4F4FD;
+}
+
+/* Footer */
+.footer {
+    background-color: #2E2F42;
+    width: 1440px;
+    text-align: left;
+    padding: 80px 100px;
+}
+
+.dark-bkg {
+    color: #F4F4FD;
+
+}
+
+.text.dark-bkg {
+    color: #F4F4FD;
+    margin-top: 20px;
+    width: 280px;
+}
+
+/* Portfolio page */
+.buttons {
+    list-style: none;
+}
+
+.buttons li {
+    display: inline-block;
+    margin-right: 10px;
+}
